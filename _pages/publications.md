@@ -86,4 +86,4 @@ Coverage: [*RCR*](https://mp.weixin.qq.com/s/YI3ahgnQJ1P7EqfnczzhpA)
 
 2. China Environment Publishing Group (2020). *Theory and Practice of Risk Analysis and Emergency Capacity Planning for Oil Spills on Water.* ISBN: 978-7-0000-0000-0
 
-3. Chinese Group Standard of China Institute of Navigation (2023). *Guidelines for the construction planning of ship oil spill response capacity of inland water* (T/CIN 025-2023). [*link*](https://www.cinnet.cn/zh-hans/system/files/files/25.nei_he_chuan_bo_yi_you_ying_ji_neng_li_jian_she_gui_hua_bian_zhi_zhi_nan_.pdf)
+3. Chinese Group Standard of China Institute of Navigation (2023). *Guidelines for the construction planning of ship oil spill response capacity of inland water* (T/CIN 025-2023).
