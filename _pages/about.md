@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hongyi Xie"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is Hongyi Xie (谢泓毅). I am a Ph.D. candidate (expected to graduate in Jun 2026) in Environmental Management at Fudan University. I am currently a Joint Ph.D. student in the National University of Singapore (Aug 2024 – Aug 2025).
+Hello! My name is Hongyi Xie (谢泓毅). I am a Ph.D. candidate (expected to graduate in Jun 2026) in Environmental Management at Fudan University. I was a Joint Ph.D. student in the National University of Singapore (2024–2025).
 
 🔍 **I am currently seeking postdoctoral opportunities in the fields of energy-climate-environmental modelling.**
 
