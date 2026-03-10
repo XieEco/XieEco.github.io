@@ -32,7 +32,7 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environm
 Coverage: [*FESE*](https://mp.weixin.qq.com/s/zNoaJA9FRHkqfn3cNXJYNQ)
 
 3. Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, In press. [*link*](https://doi.org/10.1038/s41467-025-66580-4)
-Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg); [*EES*](https://mp.weixin.qq.com/s/U1Ii9kcG-ESQ-IUdVel3FA)
+Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg)
 
 4. Shui, B., Cai, Z., **Xie, H.**, Liu, F., Luo, X. (2026). Harnessing Policy Synergies to Decarbonize China's Light-Duty Passenger Vehicle Fleet. *Journal of Cleaner Production*, 538, 147236. [*link*](https://doi.org/10.1016/j.jclepro.2025.147236)
 
@@ -40,19 +40,23 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg); [*EES*](ht
 
 6. Bai, Y., Li, H., Chen, B., **Xie, H.**, Wang, Y. (2025). Managing nitrogen metabolism of animal husbandry and aquaculture could mitigate nitrogen threat in the Main Cities of Yellow River Delta. *Cleaner Environmental Systems*, 17, 100273. [*link*](https://doi.org/10.1016/j.cesys.2025.100273)
 
-7. **Xie, H.**, Chen, B., Dai, M., Han, Z., Bai, Y., Wang, Y. (2024). Upgrading passenger vehicle emission standard help to reduce China's air pollution risk from uncertainty in electrification. *Environmental Science & Technology*, 58, 5325–5335. [*link*](https://doi.org/10.1021/acs.est.3c10078)
+7. **Xie, H.**, Chen, B., Dai, M., Han, Z., Bai, Y., Wang, Y. (2024). Upgrading passenger vehicle emission standard help to reduce China's air pollution risk from uncertainty in electrification. *Environmental Science & Technology*, 58, 5325–5335. [*cover paper*](https://doi.org/10.1021/acs.est.3c10078)
 
 8. Wang, C., Kong, Y., Lu, X., **Xie, H.**, Teng, Y., Zhan, J. (2024). Rethinking Regional High-Quality Development Pathways from a Carbon Emission Efficiency Perspective. *Land*, 13(9), 1441. [*link*](https://doi.org/10.3390/land13091441)
 
 9. Li, H., Bian, Y., Liu, M., Lin, J., Dai, M., **Xie, H.**, Yu, H., Chen, B., Xue, M., Li, Z., Yin, J., Xue, L. (2024). CO2 mineralization and utilization by tailings sand in China for potential carbon sinks and spatial project layout. *Resources, Conservation and Recycling*, 206, 107598. [*link*](https://doi.org/10.1016/j.resconrec.2024.107598)
+Coverage: [*RCR*](https://mp.weixin.qq.com/s/TvwopJpMpYm6Rgj6-gIJ9Q)
 
 10. Xie, W., Yang, X., Han, Z., Sun, M., Li, Y., **Xie, H.**, Yu, H., Chen, B., Fath, B., Wang, Y. (2024). Urban sector land use metabolism reveals inequalities across cities and inverse virtual land flows. *Resources, Conservation and Recycling*, 202, 107394. [*link*](https://doi.org/10.1016/j.resconrec.2023.107394)
+Coverage: [*RCR*](https://mp.weixin.qq.com/s/XFSCaxKbccjkBKuNMGVhKQ)
 
 11. Fang, Y., **Xie, H.**, Chen, B., Han, Z., An, D., Cai, W., Zhang, W., Wang, Y. (2024). Achieving carbon neutrality in Shanghai's municipal wastewater treatment sector requires coordinated water conservation and technical improvement. *Journal of Cleaner Production*, 443, 141134. [*link*](https://doi.org/10.1016/j.jclepro.2024.141134)
+Coverage: [*link*](https://mp.weixin.qq.com/s/A9u77vk9OLk5ucaY3mG1jg)
 
 12. Han, Z., Xie, W., Yu, H., **Xie, H.**, Li, Y., Wang, Y. (2024). Rethinking industrial land-use in American rust cities towards sustainability based on a block-level model. *Journal of Environmental Management*, 352, 120067. [*link*](https://doi.org/10.1016/j.jenvman.2024.120067)
 
-13. Dai, M., Sun, M., Chen, B., **Xie, H.**, Zhang, D., Han, Z., Yang, L., Wang, Y. (2023). Advancing sustainability in China's pulp and paper industry requires coordinated raw material supply and waste paper management. *Resources, Conservation and Recycling*, 198, 107162. [*link*](https://doi.org/10.1016/j.resconrec.2023.107162)
+13. Dai, M., Sun, M., Chen, B., **Xie, H.**, Zhang, D., Han, Z., Yang, L., Wang, Y. (2023). Advancing sustainability in China's pulp and paper industry requires coordinated raw material supply and waste paper management. *Resources, Conservation and Recycling*, 198, 107162. [*cover paper*](https://doi.org/10.1016/j.resconrec.2023.107162)
+Coverage: [*RCR*](https://mp.weixin.qq.com/s/YI3ahgnQJ1P7EqfnczzhpA)
 
 14. Gao, Y., Yi, Y., Chen, K., **Xie, H.** (2023). Simulation of suitable habitats for typical vegetation in the Yellow River Estuary based on complex hydrodynamic processes. *Ecological Indicators*, 154, 110623. [*link*](https://doi.org/10.1016/j.ecolind.2023.110623)
 
