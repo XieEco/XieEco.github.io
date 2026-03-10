@@ -18,7 +18,7 @@ Upgrading to the CHINA 7 standard is crucial for managing air pollution from pas
 </div>
 
 <div style="flex: 1;">
-<img src="/images/research1.png" style="width: 100%;">
+<img src="https://xieeco.github.io/images/P1.jpg" style="width: 100%;">
 </div>
 
 </div>
