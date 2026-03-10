@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-**🚗 The impact of vehicle climate policy on conventional emission standards**
+**🚗 The necessity of vehicle emission standard update under uncertain climate policy**
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
@@ -22,9 +22,18 @@ Upgrading to the CHINA 7 standard is crucial for managing air pollution from pas
 </div>
 
 </div>
+---
 
-<div style="flex: 1;">
-<img src="https://xieeco.github.io/images/P1.jpg" style="width: 100%;">
+**🏭 The impact of cross-sector climate action uncertainty on air pollution co-benefits**
+
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+<div style="flex: 1.5;">
+To achieve carbon neutrality, China is advancing renewable energy expansion on the power generation side and promoting electric vehicle adoption in the passenger car sector. The air pollution co-benefits from these two climate actions are critical for future air quality improvement in China. However, existing studies have not adequately explored how policy implementation uncertainty affects these co-benefits. There is therefore an urgent need to analyze pollutant emission changes in the power-passenger vehicle coupled system under cross-sector action uncertainty from a systems perspective. Our findings show that if EV penetration in the passenger car sector and clean energy transition in the power sector fail to advance in coordination, not only may the expected air pollution co-benefits fall short, but total pollutant emissions could even increase (<i>Xie et al., Engineering, 2026</i>).
+</div>
+
+<div style="flex: 0.5;">
+<img src="https://xieeco.github.io/images/P2.jpg" style="width: 100%; height: auto; object-fit: contain;">
 </div>
 
 </div>
