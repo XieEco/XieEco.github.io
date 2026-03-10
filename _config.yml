@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : 
 title_separator          : "-"
-name                     : "Hongyi Xie (谢泓毅)"
+name                     : "Hongyi Xie"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://xieeco.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,11 +24,11 @@ repository               : "XieEco/XieEco.github.io"
 author:
   # Biographic information
   avatar           : "https://xieeco.github.io/images/profile.jpg"
-  name             : "Hongyi Xie"
+  name             : "Hongyi Xie (谢泓毅)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate (expected to graduate in Jun 2026)"
-  location         : "China"
-  employer         : "Fudan University"
+  bio              : "Ph.D. Candidate, Fudan University (expected to graduate in Jun 2026)"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "hyxie22@m.fudan.edu.cn" 
 
@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=uEO5wRMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2705-8061"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Hongyi-Xie-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  researchgate     : 
   scopus           : # URL
   zotero           : # URL
 
