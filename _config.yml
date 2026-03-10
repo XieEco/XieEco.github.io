@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "images/2寸蓝底.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Environmental Management at Fudan University. Joint Ph.D. at National University of Singapore. Research interests: co-benefits of cross-sector climate policies, renewable energy scale-up, and sustainable low-carbon technology supply chains."
