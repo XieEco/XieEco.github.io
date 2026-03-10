@@ -40,7 +40,7 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg)
 
 6. Bai, Y., Li, H., Chen, B., **Xie, H.**, Wang, Y. (2025). Managing nitrogen metabolism of animal husbandry and aquaculture could mitigate nitrogen threat in the Main Cities of Yellow River Delta. *Cleaner Environmental Systems*, 17, 100273. [*link*](https://doi.org/10.1016/j.cesys.2025.100273)
 
-7. **Xie, H.**, Chen, B., Dai, M., Han, Z., Bai, Y., Wang, Y. (2024). Upgrading passenger vehicle emission standard help to reduce China's air pollution risk from uncertainty in electrification. *Environmental Science & Technology*, 58, 5325–5335. **Supplementary cover Paper** [*link*](https://doi.org/10.1021/acs.est.3c10078)
+7. **Xie, H.**, Chen, B., Dai, M., Han, Z., Bai, Y., Wang, Y. (2024). Upgrading passenger vehicle emission standard help to reduce China's air pollution risk from uncertainty in electrification. *Environmental Science & Technology*, 58, 5325–5335. **Supplementary cover paper** [*link*](https://doi.org/10.1021/acs.est.3c10078)
 
 8. Wang, C., Kong, Y., Lu, X., **Xie, H.**, Teng, Y., Zhan, J. (2024). Rethinking Regional High-Quality Development Pathways from a Carbon Emission Efficiency Perspective. *Land*, 13(9), 1441. [*link*](https://doi.org/10.3390/land13091441)
 
