@@ -7,7 +7,7 @@ author_profile: true
 
 # **Publications**
 
-You can also find my articles on [*my Google Scholar profile*](https://scholar.google.com/citations?user=uEO5wRMAAAAJ&hl=en).
+You can also find my articles on [*my Google Scholar profile*](https://scholar.google.com/citations?user=uEO5wRMAAAAJ&hl=en) or [*my ResearchGate profile*](https://www.researchgate.net/profile/Hongyi-Xie-3).
 
 ---
 
