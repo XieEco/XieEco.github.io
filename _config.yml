@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/2寸蓝底.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Hongyi Xie (谢泓毅)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in at Fudan University. Joint Ph.D. at National University of Singapore."
