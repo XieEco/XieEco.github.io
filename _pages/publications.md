@@ -13,23 +13,26 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 # <u>Under Review, Submitted, In Preparation</u>
 
-1. **Xie, H.**, Wu, Y., Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *(Minor Revision, Nature Sustainability)*
+1. **Xie, H.**, Wu, Y., Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*
 
-2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *(Major Revision, Environmental Science and Ecotechnology)*
+2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*
 
-3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *(Under Review, Environment, Development and Sustainability)*
+3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*
 
-4. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *(Minor Revision, The Innovation)*
+4. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *Under Review*
 
 ---
 
 # <u>Peer-Reviewed</u>
 
 1. **Xie, H.**, Chen, B., Wang, C., Xie, W., Long, X., Zhang, D., Dai, M., Han, Z., Song, Y., Li, J., Wang, Y. (2025). Uncertain cross-sector climate actions could undermine air pollution reduction co-benefits in China's power and passenger car sectors. *Engineering*, In press. [*link*](https://doi.org/10.1016/j.eng.2025.09.006)
+Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environmentor*](https://mp.weixin.qq.com/s/ThGsKR3scngJnwg8Eii83Q); [*LEEEP*](https://mp.weixin.qq.com/s/j8J5fbiGzXOue_ici776IA)
 
 2. **Xie, H.**, Li, Y., Wang, C. (2025). Decarbonizing inland waterway transport: scenario analysis and mitigation strategy for Jiangxi Province, 2019–2050. *Frontiers of Environmental Science & Engineering*, 19(8), 113. [*link*](https://doi.org/10.1007/s11783-025-2033-4)
+Coverage: [*FESE*](https://mp.weixin.qq.com/s/zNoaJA9FRHkqfn3cNXJYNQ)
 
 3. Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, In press. [*link*](https://doi.org/10.1038/s41467-025-66580-4)
+Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg); [*EES*](https://mp.weixin.qq.com/s/U1Ii9kcG-ESQ-IUdVel3FA)
 
 4. Shui, B., Cai, Z., **Xie, H.**, Liu, F., Luo, X. (2026). Harnessing Policy Synergies to Decarbonize China's Light-Duty Passenger Vehicle Fleet. *Journal of Cleaner Production*, 538, 147236. [*link*](https://doi.org/10.1016/j.jclepro.2025.147236)
 
