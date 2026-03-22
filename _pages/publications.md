@@ -7,13 +7,14 @@ author_profile: true
 
 # **Publications**
 
-You can also find my articles on [*my Google Scholar profile*](https://scholar.google.com/citations?user=uEO5wRMAAAAJ&hl=en) or [*my ResearchGate profile*](https://www.researchgate.net/profile/Hongyi-Xie-3).
+You can also find my articles on [*my Google Scholar profile*](https://scholar.google.com/citations?user=uEO5wRMAAAAJ&hl=en) or [*my ResearchGate profile*](https://www.researchgate.net/profile/Hongyi-Xie-3).  
+^ denotes equal contribution
 
 ---
 
 # <u>Under Review, Submitted, In Preparation</u>
 
-1. **Xie, H.**, Wu, Y., Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*
+1. **Xie, H.^**, Wu, Y.^, Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*
 
 2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*
 
@@ -30,7 +31,7 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environm
 
 17. Shui, B., Cai, Z., **Xie, H.**, Liu, F., Luo, X. (2026). Harnessing Policy Synergies to Decarbonize China's Light-Duty Passenger Vehicle Fleet. *Journal of Cleaner Production*, 538, 147236. [*link*](https://doi.org/10.1016/j.jclepro.2025.147236)  
 
-16. **Xie, H.**, Li, Y., Wang, C. (2025). Decarbonizing inland waterway transport: scenario analysis and mitigation strategy for Jiangxi Province, 2019–2050. *Frontiers of Environmental Science & Engineering*, 19(8), 113. [*link*](https://doi.org/10.1007/s11783-025-2033-4)<br>
+16. **Xie, H.^**, Li, Y.^, Wang, C. (2025). Decarbonizing inland waterway transport: scenario analysis and mitigation strategy for Jiangxi Province, 2019–2050. *Frontiers of Environmental Science & Engineering*, 19(8), 113. [*link*](https://doi.org/10.1007/s11783-025-2033-4)<br>
 Coverage: [*FESE*](https://mp.weixin.qq.com/s/zNoaJA9FRHkqfn3cNXJYNQ)  
 
 15. Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, In press. [*link*](https://doi.org/10.1038/s41467-025-66580-4)<br>
