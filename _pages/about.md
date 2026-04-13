@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Hongyi Xie (谢泓毅). I am a Ph.D. candidate (expected to graduate in Jun 2026) in Environmental Management at Fudan University. I will join the Asian School of the Environment at Nanyang Technological University as a Research Fellow.  
 
-My research focuses on the constraints on low-carbon technology scale-up, and the environmental & cost implications of climate actions, with an emphasis on data-driven modeling and quantitative analysis. I am currently working on the development of the GCAM (Global Change Analysis Model)–Southeast Asia model.
+My research focuses on the constraints on low-carbon technology scale-up, and the environmental & cost implications of climate actions, with an emphasis on data-driven modeling and quantitative analysis. I am currently working on the development of the GCAM (Global Change Analysis Model) – Southeast Asia version.
 
 I am familiar with Life Cycle Assessment (LCA), Material Flow Analysis (MFA), Techno-Economic Analysis (TEA), energy systems modeling, and spatial analysis. My research has been published in journals including *Engineering*, *Environmental Science & Technology*, and *Journal of Hydrology*. I served as an anonymous reviewer for several environmental journals, such as Nature Cities, ES&T, RCR, JCLP, JEMA.  
 
