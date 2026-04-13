@@ -20,11 +20,11 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*
 
-4. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *Under Review*
-
 ---
 
 # <u>Peer-Reviewed</u>
+
+19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *The Innovation*，In press.  
 
 18. **Xie, H.**, Chen, B., Wang, C., Xie, W., Long, X., Zhang, D., Dai, M., Han, Z., Song, Y., Li, J., Wang, Y. (2026). Uncertain cross-sector climate actions could undermine air pollution reduction co-benefits in China's power and passenger car sectors. *Engineering*, In press. [*link*](https://doi.org/10.1016/j.eng.2025.09.006)<br>
 Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environmentor*](https://mp.weixin.qq.com/s/ThGsKR3scngJnwg8Eii83Q); [*LEEEP*](https://mp.weixin.qq.com/s/j8J5fbiGzXOue_ici776IA)  
