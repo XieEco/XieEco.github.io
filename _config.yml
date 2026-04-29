@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hongyi Xie"
+title                    : "Hongyi XIE"
 title_separator          : 
 name                     : 
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "XieEco/XieEco.github.io"
 author:
   # Biographic information
   avatar           : "https://xieeco.github.io/images/profile2.jpg"
-  name             : "Hongyi Xie"
+  name             : "Hongyi XIE"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate, Fudan University"
+  bio              : "Ph.D., Fudan University"
   location         : 
   employer         : 
   uri              : # URL
