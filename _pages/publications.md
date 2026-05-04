@@ -18,7 +18,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*  
 
-3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*  
+3. Xie, G., Bai, Y., Wang, Q., **Xie, H. (corresponding author)*** . Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*  
 
 4. Fu Y., Li H., Chen B., **Xie, H.**, Dai M., Han Z., Sun L., Xue M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. *Submitted*  
 
