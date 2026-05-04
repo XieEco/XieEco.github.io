@@ -14,11 +14,17 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 # <u>Under Review, Submitted, In Preparation</u>
 
-1. **Xie, H.^**, Wu, Y.^, Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*
+1. **Xie, H.^**, Wu, Y.^, Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*  
 
-2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*
+2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*  
 
-3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*
+3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\*** (corresponding author). Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*  
+
+4. Fu Y., Li H., Chen B., **Xie, H.**, Dai M., Han Z., Sun L., Xue M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. *Submitted*  
+
+5. Sun C., Han Z., **Xie, H.**, Li H, Chen B., Zhao Y., Wang, Y. Spatial Mismatch Embedded in the UK’s Sectoral Land Use Efficiency. *Submitted*  
+
+6. Han Z., Chen B., Chen Z., Shi Z., Wang S., Song Y., **Xie, H.**, Li H., Sun C., Meng J., Wu L., Wang Y. Location-sector pairing redefines sectoral flood exposure and network propagation across Chinese cities. *Submitted*  
 
 ---
 
