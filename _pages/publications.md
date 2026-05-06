@@ -12,25 +12,25 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 ---
 
-# <u>Under Review, Submitted, In Preparation</u>
+# <u>Under Review, Submitted, In Preparation</u>  
 
-1. **Xie, H.^**, Wu, Y.^, Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Under Review*  
+1. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*  
 
-2. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Under Review*  
+2. Xie, G., Bai, Y., Wang, Q., **Xie, H.\* (corresponding author)** . Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*  
 
-3. Xie, G., Bai, Y., Wang, Q., **Xie, H.\* (corresponding author)** . Rethinking Urbanization under the Socio–Economic–Ecosystem Nexus: Insights from an Emergy Perspective in Shandong Province, China. *Under Review*  
+3. Fu Y., Li H., Chen B., **Xie, H.**, Dai M., Han Z., Sun L., Xue M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. *Submitted*  
 
-4. Fu Y., Li H., Chen B., **Xie, H.**, Dai M., Han Z., Sun L., Xue M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. *Submitted*  
+4. Sun C., Han Z., **Xie, H.**, Li H, Chen B., Zhao Y., Wang, Y. Spatial Mismatch Embedded in the UK’s Sectoral Land Use Efficiency. *Submitted*  
 
-5. Sun C., Han Z., **Xie, H.**, Li H, Chen B., Zhao Y., Wang, Y. Spatial Mismatch Embedded in the UK’s Sectoral Land Use Efficiency. *Submitted*  
-
-6. Han Z., Chen B., Chen Z., Shi Z., Wang S., Song Y., **Xie, H.**, Li H., Sun C., Meng J., Wu L., Wang Y. Location-sector pairing redefines sectoral flood exposure and network propagation across Chinese cities. *Submitted*  
+5. Han Z., Chen B., Chen Z., Shi Z., Wang S., Song Y., **Xie, H.**, Li H., Sun C., Meng J., Wu L., Wang Y. Location-sector pairing redefines sectoral flood exposure and network propagation across Chinese cities. *Submitted*  
 
 ---
 
 # <u>Peer-Reviewed</u>
 
-19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *The Innovation*，In press.  
+20. **Xie, H.^**, Wu, Y.^, Li, Z., Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Nature Sustainability*, In press.     
+
+19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *The Innovation*, In press.  
 
 18. **Xie, H.**, Chen, B., Wang, C., Xie, W., Long, X., Zhang, D., Dai, M., Han, Z., Song, Y., Li, J., Wang, Y. (2026). Uncertain cross-sector climate actions could undermine air pollution reduction co-benefits in China's power and passenger car sectors. *Engineering*, In press. [*link*](https://doi.org/10.1016/j.eng.2025.09.006)<br>
 Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environmentor*](https://mp.weixin.qq.com/s/ThGsKR3scngJnwg8Eii83Q); [*LEEEP*](https://mp.weixin.qq.com/s/j8J5fbiGzXOue_ici776IA)  
