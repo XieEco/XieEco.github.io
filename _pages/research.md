@@ -9,6 +9,10 @@ author_profile: true
 
 ---
 
+<img src="https://xieeco.github.io/images/P0.png">
+
+---
+
 **💧 Addressing water resource constraints for electrolytic hydrogen demand in China**
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
