@@ -22,7 +22,9 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 4. Sun C., Han Z., **Xie, H.**, Li H, Chen B., Zhao Y., Wang, Y. Spatial Mismatch Embedded in the UK’s Sectoral Land Use Efficiency. *Submitted*  
 
-5. Han Z., Chen B., Chen Z., Shi Z., Wang S., Song Y., **Xie, H.**, Li H., Sun C., Meng J., Wu L., Wang Y. Location-sector pairing redefines sectoral flood exposure and network propagation across Chinese cities. *Submitted*  
+5. Han Z., Chen B., Chen Z., Shi Z., Wang S., Song Y., **Xie, H.**, Li H., Sun C., Meng J., Wu L., Wang Y. Location-sector pairing redefines sectoral flood exposure and network propagation across Chinese cities. *Submitted*
+
+6. Wang Z., Li Y., **Xie, H.**, Zou T., Yang Y., Liang S. Spatial heterogeneity of life cycle carbon emissions from hydrogen production in China. *Submitted*  
 
 ---
 
