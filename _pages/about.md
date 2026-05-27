@@ -59,5 +59,6 @@ Engineer — Transport Planning and Research Institute, Ministry of Transport, C
 ---  
   
 🤝 Collaboration Welcome!  
-I welcome any form of collaborative research. Please feel free to contact me at:  
-📧 xiehyeco@163.com  
+I welcome any form of collaborative research.  
+
+Please feel free to contact me at:  xiehyeco@163.com  
