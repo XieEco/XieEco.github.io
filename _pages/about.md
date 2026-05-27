@@ -52,6 +52,7 @@ B.S. in Environmental Science — Zhejiang University (2013–2017)
   
 💼 Work Experience  
 
+Research Fellow — Asian School of the Environment, Nanyang Technological University, Singapore (2026–)  
 Engineer — Transport Planning and Research Institute, Ministry of Transport, China (2020–2022)  
   
 ---  
