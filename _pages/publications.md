@@ -30,7 +30,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 # <u>Peer-Reviewed</u>
 
-21. Wang, C., Meng, L., Zeng, X.*, Xie, H. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*, In press. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>
+21. Wang, C., Meng, L., Zeng, X., **Xie, H.**. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*, In press. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>
 
 20. **Xie, H.^**, Wu, Y.^, Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Nature Sustainability*, In press.     
 
