@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!   
 
-My name is Hongyi Xie (谢泓毅). I will join the Asian School of the Environment at Nanyang Technological University as a Research Fellow in July 2026.  
+My name is Hongyi Xie (谢泓毅). I am currently a Research Fellow in the Asian School of the Environment at Nanyang Technological University.  
   
 ---  
   
