@@ -33,7 +33,7 @@ I am familiar with LCA, MFA, TEA, IAMs, and GIS.
   
 Publications  
 
-I have published over 20 papers in journals including Nature Sustainability, Engineering, Environmental Science & Technology, Environmental Science and Ecotechnology， and Journal of Hydrology.  
+I have published over 20 papers in journals, including first-author papers in Nature Sustainability, Engineering, Environmental Science & Technology, Environmental Science and Ecotechnology, Journal of Hydrology, etc.  
   
 ---  
   
