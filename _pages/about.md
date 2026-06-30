@@ -7,38 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋  
+Hello!   
+
 My name is Hongyi Xie (谢泓毅). I will join the Asian School of the Environment at Nanyang Technological University as a Research Fellow in July 2026.  
   
 ---  
   
-📖 Research Interests  
+Research Interests  
+
 My research focuses on the constraints on low-carbon technology scale-up, and the environmental & cost implications of climate actions, with an emphasis on data-driven modeling and quantitative analysis, specifically within:  
 
-⚡ Energy sector (e.g., green hydrogen, coal-fired plants, offshore wind power)  
+Energy sector (e.g., green hydrogen, coal-fired plants, offshore wind power)  
 
-🚗 Transportation sector (e.g., electric vehicles, inland waterway shipping)  
+Transportation sector (e.g., electric vehicles, inland waterway shipping)  
 
-⛏️ Mining sector (e.g., rare earth elements)  
+Mining sector (e.g., rare earth elements)  
   
 ---  
   
-🛠️ Methods & Tools  
+Methods & Tools  
+
 I am familiar with LCA, MFA, TEA, IAMs, and GIS.  
   
 ---  
   
-📄 Publications  
-I have published over 20 papers in journals including Nature Sustainability, Engineering, Environmental Science & Technology, and Journal of Hydrology.  
+Publications  
+
+I have published over 20 papers in journals including Nature Sustainability, Engineering, Environmental Science & Technology, Environmental Science and Ecotechnology， and Journal of Hydrology.  
   
 ---  
   
-👁️ Reviewing Service  
+Reviewing Service  
+
 I have served as an anonymous reviewer for several environmental journals, such as Nature Cities, ES&T, RCR, JCLP, JEMA.  
   
 ---  
   
-🎓 Education  
+Education  
 
 Ph.D. with honors in Environmental Management — Fudan University (2022–2026)  
 
@@ -50,7 +55,7 @@ B.S. in Environmental Science — Zhejiang University (2013–2017)
   
 ---  
   
-💼 Work Experience  
+Work Experience  
 
 Research Fellow — Asian School of the Environment, Nanyang Technological University, Singapore (2026–)   
 
@@ -58,7 +63,8 @@ Engineer — Transport Planning and Research Institute, Ministry of Transport, C
   
 ---  
   
-🤝 Collaboration Welcome!  
+Collaboration Welcome!  
+
 I welcome any form of collaborative research.  
 
 Please feel free to contact me at:  xiehyeco@163.com  
