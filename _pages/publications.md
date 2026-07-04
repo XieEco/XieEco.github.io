@@ -16,7 +16,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 23. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China. *Environmental Science and Ecotechnology*, in press.   
 
-22. Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*]([https://doi.org/10.1007/s10668-026-07773-9](https://doi.org/10.1016/j.trd.2026.105454)<br>   
+22. Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*](https://doi.org/10.1016/j.trd.2026.105454)<br>   
 
 21. Wang, C., Meng, L., Zeng, X., **Xie, H.**. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*, In press. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>
 
