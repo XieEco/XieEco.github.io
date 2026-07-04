@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!   
 
-My name is Hongyi Xie (谢泓毅). I am currently a Research Fellow at the Asian School of the Environment, Nanyang Technological University.  
+My name is Hongyi Xie (谢泓毅). I am currently a Research Fellow at the Asian School of the Environment, Nanyang Technological University [*link*](https://www.ntu.edu.sg/ase)<br>  .  
   
 ---  
   
