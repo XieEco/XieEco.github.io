@@ -13,6 +13,22 @@ author_profile: true
 
 ---
 
+**🔋 Addressing spatial mismatch in high-value utilization of retired batteries for decarbonization in China**
+
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+<div style="flex: 1.5;">
+The rapid growth of electric vehicles is generating increasing numbers of retired batteries. This is creating a rapidly expanding global market for retired battery disposal. However, growing spatial mismatches between retired battery supply and high-value utilization demand may limit their decarbonization and economic potential. Here, we develop a province-level integrated model driven by vehicle- and company-level big-data, to project China's retired batteries disposal market, and to assess associated carbon mitigation and cost-saving potentials through a life-cycle techno-economic assessment. We estimate that high-value utilization approaches yield cumulative cost savings and carbon reductions 3–5 and 1–3 times greater than such of metallurgical disposal during 2020 and 2050. However, high-value utilization faces significant and growing supply-demand spatial mismatches, constraining 26–53% of the carbon mitigation and 50–87% of the cost-saving potentials compared to the expected outcomes. We identify an optimal solution that prioritizes high-value utilization, expands collection and disposal infrastructure, and establishes efficient transport networks, achieving cumulative 6161 Mt CO2eq carbon reductions and 3988 billion RMB cost savings compared to the baseline scenario during 2020 to 2050. These findings provide a pathway for scaling high-value retired battery utilization in China, and offer insights for other emerging electrification markets. (Xie et al., Environmental Science & Ecotechnology, 2026).
+</div>
+
+<div style="flex: 0.5;">
+<img src="https://xieeco.github.io/images/P4.jpg" style="width: 100%; height: auto; object-fit: contain;">
+</div>
+
+</div>
+
+---
+
 **💧 Addressing water resource constraints for electrolytic hydrogen demand in China**
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
