@@ -22,7 +22,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 
 20. **Xie, H.^**, Wu, Y.^, Wang, Y., Guo, Y. Addressing water resource constraints for electrolytic hydrogen demand in China. *Nature Sustainability*, In press.     
 
-19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *The Innovation*, In press.  
+19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. The co-benefits of the use of fly ash as a clinker substitute will be undermined by coal phaseout. *The Innovation*, In press. [*link*](https://doi.org/10.1016/j.xinn.2026.101496)  
 
 18. **Xie, H.**, Chen, B., Wang, C., Xie, W., Long, X., Zhang, D., Dai, M., Han, Z., Song, Y., Li, J., Wang, Y. (2026). Uncertain cross-sector climate actions could undermine air pollution reduction co-benefits in China's power and passenger car sectors. *Engineering*, In press. [*link*](https://doi.org/10.1016/j.eng.2025.09.006)<br>
 Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environmentor*](https://mp.weixin.qq.com/s/ThGsKR3scngJnwg8Eii83Q); [*LEEEP*](https://mp.weixin.qq.com/s/j8J5fbiGzXOue_ici776IA)  
