@@ -21,7 +21,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 21. Wang, C., Meng, L., Zeng, X., **Xie, H.**. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>
 
 20. **Xie, H.^**, Wu, Y.^, Wang, Y., Guo, Y. (2026). Addressing water resource constraints for electrolytic hydrogen demand in China. *Nature Sustainability*. [*link*](https://doi.org/10.1038/s41893-026-01894-9)<br>
-Coverage: [*UEG-Insight*](https://mp.weixin.qq.com/s/8yD8W-XVKRkgZBznw0V9PA?scene=1)   
+Coverage: [*UEG-Insight*](https://mp.weixin.qq.com/s/8yD8W-XVKRkgZBznw0V9PA?scene=1); [*Environmentor*](https://mp.weixin.qq.com/s/rDai-pbT_ezMo3GIqrdMlg); [*RES*](https://mp.weixin.qq.com/s/QmV39TciMX8Yoj62URaWSw); [*Young Earth Scholar*](https://mp.weixin.qq.com/s/TpSeqFDxMQmqmAheIbVizQ); [*CIECCPA*](https://mp.weixin.qq.com/s/JXAUsg3InpRbUH5TWxGU7A)   
 
 19. Li, H., Chen, B., **Xie, H.**, Yu, H., Dai, M., Xue, M., Long, X., Wang, J., Han, Z., Sun, M., Wang, J., Guo, Y., Lin, J., Wang, Y. (2026). Coal phaseout undermines co-benefits of fly ash as a clinker substitute. *The Innovation*, 7, 101496. [*link*](https://doi.org/10.1016/j.xinn.2026.101496)<br>
 Coverage:  [*The Innovation*](https://mp.weixin.qq.com/s/4jMn-cU34bXW5_ET8FAu0A)  
