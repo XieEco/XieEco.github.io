@@ -22,7 +22,7 @@ The rapid growth of electric vehicles is generating a large and expanding stream
 </div>
 
 <div style="flex: 0.5;">
-<img src="https://xieeco.github.io/images/P4.jpg" style="width: 100%; height: auto; object-fit: contain;">
+<img src="https://xieeco.github.io/images/P4.jpg" style="width: 100%; height: auto; object-fit: contain;"> 
 </div>
 
 </div>
