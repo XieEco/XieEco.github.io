@@ -8,14 +8,16 @@ author_profile: true
 # **Publications**
 
 You can also find my articles on [*my Google Scholar profile*](https://scholar.google.com/citations?user=uEO5wRMAAAAJ&hl=en) or [*my ResearchGate profile*](https://www.researchgate.net/profile/Hongyi-Xie-3).  
-^ denotes equal contribution
+^ denotes equal contribution; * denotes corresponding
 
 ---
 
 # <u>Peer-Reviewed</u>
 
-23. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. (2026). Spatial mismatches constrain high-value utilization of retired batteries for decarbonization in China. *Environmental Science and Ecotechnology*, 33, 100754.[*link*](https://doi.org/10.1016/j.ese.2026.100754)<br>  
-
+24. Xie, G., Bai, Y., Wang, Q., **Xie, H.***, (2026). Urbanization Sustainability under the Socio–Economic–Ecosystem Nexus: A City-Level Emergy Assessment of Intra-Provincial Heterogeneity in Shandong, China. *Environmental Science and Ecotechnology*, In press.  
+  
+23. **Xie, H.**, Li, H., Wang, S., Han, Z., Chen, B., Lv, H., Wang, Y. (2026). Spatial mismatches constrain high-value utilization of retired batteries for decarbonization in China. *Environmental Science and Ecotechnology*, 33, 100754. [*link*](https://doi.org/10.1016/j.ese.2026.100754)<br> Coverage: [*Autotech News*](https://autotech.news/resolving-spatial-mismatches-unlocks-six-billion-tons-of-chinas-climate-gains-from-retired-ev-batteries-by-2050/); [*EurekAlert! AAAS*](https://www.eurekalert.org/news-releases/1142042)     
+  
 22. Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*](https://doi.org/10.1016/j.trd.2026.105454)<br>   
 
 21. Wang, C., Meng, L., Zeng, X., **Xie, H.**. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>
