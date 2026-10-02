@@ -13,7 +13,7 @@ My name is Hongyi Xie (谢泓毅). I am currently a Research Fellow at the Asian
 
 My research focuses on the constraints on low-carbon technology scale-up, and the environmental, biodiversity & cost implications of climate actions, with an emphasis on data-driven modeling and quantitative analysis, specifically within: Energy sector (e.g., green hydrogen, coal-fired plants, offshore wind power); Transportation sector (e.g., electric vehicles, inland waterway shipping); Mining sector (e.g., rare earth elements)  
 
-I have published over 20 papers in journals, including first-author papers in Nature Sustainability, Engineering, Environmental Science & Technology, Environmental Science and Ecotechnology, Journal of Hydrology, etc.  
+I have published over 30 papers in journals, including first-author papers in Nature Sustainability, Engineering, Environmental Science & Technology, Environmental Science and Ecotechnology, Journal of Hydrology, etc.  
 
 I welcome any form of collaborative research. Please feel free to contact me at: hongyi.xie@ntu.edu.sg or xiehyeco@163.com   
 
