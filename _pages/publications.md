@@ -28,7 +28,7 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environm
 
 Others:  
 
-Fu, Y., Li, H., Chen, B., **Xie, H.**, Dai, M., Han, Z., Sun, L., Xue, M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. Resources, Conservation & Recycling, In press.  
+Fu, Y., Li, H., Chen, B., **Xie, H.**, Dai, M., Han, Z., Sun, L., Xue, M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. *Resources, Conservation & Recycling*, In press.  
     
 Xie, G., Bai, Y., Wang, Q., **Xie, H.#**, (2026). Urbanization Sustainability under the Socio–Economic–Ecosystem Nexus: A City-Level Emergy Assessment of Intra-Provincial Heterogeneity in Shandong, China. *Ecological Modelling*, 522, 111855. [*link*](https://doi.org/10.1016/j.ecolmodel.2026.111855)<br>    
   
