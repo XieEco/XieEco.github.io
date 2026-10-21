@@ -28,6 +28,8 @@ Coverage: [*FDU*](https://mp.weixin.qq.com/s/QcO8MKsS304To2lNIqZclA); [*Environm
 
 Others:  
 
+Fu, Y., Li, H., Chen, B., **Xie, H.**, Dai, M., Han, Z., Sun, L., Xue, M., Wang, Y. Spatial mismatch of biomass supply constrains biochar-based decarbonization in China's iron and steel industry. Resources, Conservation & Recycling, In press.  
+    
 Xie, G., Bai, Y., Wang, Q., **Xie, H.#**, (2026). Urbanization Sustainability under the Socio–Economic–Ecosystem Nexus: A City-Level Emergy Assessment of Intra-Provincial Heterogeneity in Shandong, China. *Ecological Modelling*, 522, 111855. [*link*](https://doi.org/10.1016/j.ecolmodel.2026.111855)<br>    
   
 Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*](https://doi.org/10.1016/j.trd.2026.105454)<br>   
