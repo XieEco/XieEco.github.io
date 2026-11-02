@@ -17,7 +17,7 @@ You can also find my articles on [*my Google Scholar profile*](https://scholar.g
 **Highlighted:**  
 
 **Xie, H.^**, Wu, Y.^, Wang, Y., Guo, Y. (2026). Addressing water resource constraints for electrolytic hydrogen demand in China. *Nature Sustainability*. [*link*](https://doi.org/10.1038/s41893-026-01894-9)<br>
-Coverage: [*BNU*](https://env.bnu.edu.cn/kyxsdt/a7c6e901b12540ce884c96f8bdaae3f7.htm); [*CIECCPA*](https://mp.weixin.qq.com/s/JXAUsg3InpRbUH5TWxGU7A); [*UI*](https://mp.weixin.qq.com/s/8yD8W-XVKRkgZBznw0V9PA?scene=1); [*Environmentor*](https://mp.weixin.qq.com/s/rDai-pbT_ezMo3GIqrdMlg); [*RES*](https://mp.weixin.qq.com/s/QmV39TciMX8Yoj62URaWSw); [*YES*](https://mp.weixin.qq.com/s/TpSeqFDxMQmqmAheIbVizQ); [*EEG*](https://mp.weixin.qq.com/s/ELjLXeoztiJI6PA7J1z3HQ)   
+Coverage: [*BNU*](https://env.bnu.edu.cn/kyxsdt/a7c6e901b12540ce884c96f8bdaae3f7.htm); [*CIECCPA*](https://mp.weixin.qq.com/s/JXAUsg3InpRbUH5TWxGU7A); [*UI*](https://mp.weixin.qq.com/s/8yD8W-XVKRkgZBznw0V9PA?scene=1); [*Environmentor*](https://mp.weixin.qq.com/s/rDai-pbT_ezMo3GIqrdMlg); [*RES*](https://mp.weixin.qq.com/s/QmV39TciMX8Yoj62URaWSw); [*YES*](https://mp.weixin.qq.com/s/TpSeqFDxMQmqmAheIbVizQ); [*REAI*](https://mp.weixin.qq.com/s/eHWcQxsQlRuOK3MTmVgKJA); [*EEG*](https://mp.weixin.qq.com/s/ELjLXeoztiJI6PA7J1z3HQ)   
 
 **Xie, H.**, Chen, B., Dai, M., Han, Z., Bai, Y., Wang, Y. (2024). Upgrading passenger vehicle emission standard help to reduce China's air pollution risk from uncertainty in electrification. *Environmental Science & Technology*, 58, 5325–5335. **Supplementary Cover Paper** [*link*](https://doi.org/10.1021/acs.est.3c10078)<br>  
 
