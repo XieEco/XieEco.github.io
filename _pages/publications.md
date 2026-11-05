@@ -45,7 +45,7 @@ Shui, B., Cai, Z., **Xie, H.**, Liu, F., Luo, X. (2026). Harnessing Policy Syner
 **Xie, H.^**, Li, Y.^, Wang, C. (2025). Decarbonizing inland waterway transport: scenario analysis and mitigation strategy for Jiangxi Province, 2019–2050. *Frontiers of Environmental Science & Engineering*, 19(8), 113. [*link*](https://doi.org/10.1007/s11783-025-2033-4)<br>
 Coverage: [*FESE*](https://mp.weixin.qq.com/s/zNoaJA9FRHkqfn3cNXJYNQ)  
   
-Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, In press. [*link*](https://doi.org/10.1038/s41467-025-66580-4)<br>
+Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, 16, 11594. [*link*](https://doi.org/10.1038/s41467-025-66580-4)<br>
 Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg)  
   
 Zhang, Y., Dai, M., Chen, B., **Xie, H.**, Li, Z., Wang, Y. (2025). A Product-based Life-cycle Integration Platform for sustainable plastic bottles from agricultural biowaste. *Chemical Engineering Journal*, 524, 169320. [*link*](https://doi.org/10.1016/j.cej.2025.169320)  
