@@ -34,7 +34,8 @@ Coverage:  [*RCR*](https://mp.weixin.qq.com/s/VdMzoah8VO11aieMocm9Zg)
     
 Xie, G., Bai, Y., Wang, Q., **Xie, H.#**, (2026). Urbanization Sustainability under the Socio–Economic–Ecosystem Nexus: A City-Level Emergy Assessment of Intra-Provincial Heterogeneity in Shandong, China. *Ecological Modelling*, 522, 111855. [*link*](https://doi.org/10.1016/j.ecolmodel.2026.111855)<br>    
   
-Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*](https://doi.org/10.1016/j.trd.2026.105454)<br>   
+Wang, C., Xue, J., **Xie, H.**, Phillips, F., Liu, G., Zhang, F. (2026). Tiered standards, differential effects: a quasi-experimental study of China’s vehicle emission policies. *Transportation Research Part D: Transport and Environment*, 158, 105454. [*link*](https://doi.org/10.1016/j.trd.2026.105454)<br>
+Coverage:  [*RAW*](https://mp.weixin.qq.com/s/o9cK-lxEpFS-uH5Tm-fjxw)  
   
 Wang, C., Meng, L., Zeng, X., **Xie, H.**. (2026). Multi-dimensional drivers and their interactions on carbon sink capacity in tropical forests: A case study of Xishuangbanna. *Environment, Development and Sustainability*. [*link*](https://doi.org/10.1007/s10668-026-07773-9)<br>  
   
@@ -47,7 +48,7 @@ Shui, B., Cai, Z., **Xie, H.**, Liu, F., Luo, X. (2026). Harnessing Policy Syner
 Coverage: [*FESE*](https://mp.weixin.qq.com/s/zNoaJA9FRHkqfn3cNXJYNQ)  
   
 Long, X., Chen, B., Dai, M., **Xie, H.**, Chen, P., Meng, J., Wang, Y. (2025). Ambitious climate targets can make the phaseout of India's coal-fired power plants cost-beneficial. *Nature Communications*, 16, 11594. [*link*](https://doi.org/10.1038/s41467-025-66580-4)<br>
-Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg)  
+Coverage: [*FDU*](https://mp.weixin.qq.com/s/_mEfK2xjGhIbAK17s0_rqg); [*BCEMer*](https://mp.weixin.qq.com/s/y_0nycK4R2watFMFuuJgFg); [*EES*](https://mp.weixin.qq.com/s/U1Ii9kcG-ESQ-IUdVel3FA)    
   
 Zhang, Y., Dai, M., Chen, B., **Xie, H.**, Li, Z., Wang, Y. (2025). A Product-based Life-cycle Integration Platform for sustainable plastic bottles from agricultural biowaste. *Chemical Engineering Journal*, 524, 169320. [*link*](https://doi.org/10.1016/j.cej.2025.169320)  
   
